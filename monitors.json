@@ -3,97 +3,13 @@
     "monitors":
     [
         {
-            "type": "standalone",
-            "id": "784436272",
-            "title": "Strona główna SU",
-            "subtitle" : "WiśniowaSU"
-        },
-        {
-            "type": "standalone",
-            "id": "784472960",
-            "title": "Strona główna P.ASJE",
-            "subtitle" : "Konferencja 2020"
-        },
-        {
             "type": "group",
-            "title": "Główne usługi WiśniowaSU",
+            "title": "Minecraft",
             "monitors":
             [
                 {
-                    "id": "784472956",
-                    "title": "System linkow"
-                },
-                {
-                    "id": "784472959",
-                    "title": "System haseł"
-                },
-                {
-                    "id": "784472962",
-                    "title": "System feedback'u"
-                }
-            ]
-        },
-        {
-            "type": "group",
-            "title": "Usługi CherryCraft",
-            "monitors":
-            [
-                {
-                    "id": "784472953",
-                    "title": "Serwer MC"
-                },
-                {
-                    "id": "784492443",
-                    "title": "Strona główna"
-                },
-                {
-                    "id": "784492444",
-                    "title": "Baza danych"
-                },
-                {
-                    "id": "784492471",
-                    "title": "Dynmapa"
-                },
-                {
-                    "id": "784492450",
-                    "title": "Analityka"
-                }
-            ]
-        },
-        {
-            "type": "group",
-            "title": "Usługi API Wiśnowa SU",
-            "monitors":
-            [
-                {
-                    "id": "784492451",
-                    "title": "WebhookCI"
-                }
-            ]
-        },
-        {
-            "type": "group",
-            "title": "VPS",
-            "monitors":
-            [
-                {
-                    "id": "784492457",
-                    "title": "Urządzenia dostawcy"
-                },
-                {
-                    "id": "784472966",
-                    "title": "Router brzegowy"
-                }
-            ]
-        },
-        {
-            "type": "group",
-            "title": "Serwerownia",
-            "monitors":
-            [
-                {
-                    "id": "784469769",
-                    "title": "Urządzenia dostawcy"
+                    "id": "785021762",
+                    "title": "Minecraft Server"
                 },
                 {
                     "id": "784469773",
