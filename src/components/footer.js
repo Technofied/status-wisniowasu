@@ -51,13 +51,13 @@ export default class Footer extends React.Component {
           >
             Technofied
           </a>{' '}
-          | Source code on{' '}
+          | A project of{' '}
           <a
             target="_blank"
             rel="noopener noreferrer"
-            href="https://github.com/fastfend/status-wisniowasu"
+            href="https://www.democracycraft.net"
           >
-            GitHub
+            DemocracyCraft
           </a>
         </p>
         <p>
