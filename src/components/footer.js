@@ -47,7 +47,7 @@ export default class Footer extends React.Component {
           <a
             target="_blank"
             rel="noopener noreferrer"
-            href="https://www.democracycraft.net"
+            href=""
           >
             Technofied
           </a>{' '}
