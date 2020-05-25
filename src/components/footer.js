@@ -51,7 +51,7 @@ export default class Footer extends React.Component {
           >
             Technofied
           </a>{' '}
-          | A project of{' '}
+          | An in-house solution developed by{' '}
           <a
             target="_blank"
             rel="noopener noreferrer"
@@ -61,16 +61,16 @@ export default class Footer extends React.Component {
           </a>
         </p>
         <p>
-          Ikony wykorzystane z{' '}
+          Icons sourced from{' '}
           <a
             target="_blank"
-            rel="noopener noreferrer"
+            rel="Icons sourced from"
             href="https://icons8.com"
           >
             Icons8
           </a>
         </p>
-        <p>wersja {packageJson.version}</p>
+        <p>Version {packageJson.version}</p>
       </footer>
     );
   }
