@@ -17,11 +17,11 @@ export default function Index({ data }) {
           <Helmet>
             <meta
               name="description"
-              content="Strona zawierająca wszystkie aktualne i ubiegłe stany usług Wiśniowa SU"
+              content="Status of DemocracyCraft online services"
             />
             <meta
               name="keywords"
-              content="status, samorząd, samorząd uczniowski, szkoła, uczniowie, Wiśniowa 56"
+              content="status, democracycraft"
             />
             <meta httpEquiv="X-UA-Compatible" content="ie=edge" />
             <meta name="apple-mobile-web-app-capable" content="yes" />
