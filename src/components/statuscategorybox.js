@@ -207,7 +207,7 @@ export default class StatusCategoryBox extends React.Component {
             containerStyles.left,
           ].join(' ')}
         >
-          31 dni temu
+          31 days ago
         </span>
         <span
           className={[
@@ -215,7 +215,7 @@ export default class StatusCategoryBox extends React.Component {
             containerStyles.right,
           ].join(' ')}
         >
-          teraz
+          now
         </span>
         <div
           className={containerStyles.status_more}
