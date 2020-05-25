@@ -67,7 +67,7 @@ export default function Index({ data }) {
               content="/browserconfig.xml"
             />
             <meta name="theme-color" content="#ffffff" />
-            <title>Status usług Wiśniowa SU</title>
+            <title>Status | DemocracyCraft</title>
             <meta
               property="og:site_name"
               content="Status | DemocracyCraft"
