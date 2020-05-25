@@ -3,6 +3,12 @@
     "monitors":
     [
         {
+            "type": "standalone",
+            "id": "785027223",
+            "title": "Forums",
+            "subtitle" : "DemocracyCraft Forums"
+        },
+        {
             "type": "group",
             "title": "Minecraft",
             "monitors":
