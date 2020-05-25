@@ -47,9 +47,9 @@ export default class Footer extends React.Component {
           <a
             target="_blank"
             rel="noopener noreferrer"
-            href="https://github.com/fastfend"
+            href="https://www.democracycraft.net"
           >
-            Piotr Stadnicki
+            Technofied
           </a>{' '}
           | Source code on{' '}
           <a
