@@ -222,7 +222,7 @@ export default class StatusCategoryBox extends React.Component {
           onClick={this.clickOpenGroup}
         >
           <div className={containerStyles.status_more_text}>
-            Pokaż {this.state.opened ? 'mniej' : 'więcej'}
+            Pokaż {this.state.opened ? 'less' : 'more'}
           </div>
           <img
             src={downArrowImg}
@@ -230,7 +230,7 @@ export default class StatusCategoryBox extends React.Component {
               containerStyles.status_more_icon,
               this.state.opened ? containerStyles.on : null,
             ].join(' ')}
-            alt="Pokaż więcej usług"
+            alt="Show more services"
           ></img>
         </div>
         <div className={containerStyles.status_more_container}>
