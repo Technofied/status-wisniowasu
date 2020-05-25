@@ -55,11 +55,11 @@ export default function Index({ data }) {
             <link rel="shortcut icon" href="/favicon.ico" />
             <meta
               name="apple-mobile-web-app-title"
-              content="Status WisniowaSU"
+              content="Status | DC"
             />
             <meta
               name="application-name"
-              content="Status Wiśniowa SU"
+              content="Status | DemocracyCraft"
             />
             <meta name="msapplication-TileColor" content="#e9384f" />
             <meta
@@ -70,11 +70,11 @@ export default function Index({ data }) {
             <title>Status usług Wiśniowa SU</title>
             <meta
               property="og:site_name"
-              content="Status Wiśniowa SU"
+              content="Status | DemocracyCraft"
             />
             <meta
               property="og:title"
-              content="Status usług Wiśniowa SU"
+              content="Status | DemocracyCraft"
             />
             <meta
               property="og:description"
