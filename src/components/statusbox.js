@@ -164,7 +164,7 @@ export default class StatusBox extends React.Component {
             containerStyles.left,
           ].join(' ')}
         >
-          31 dni temu
+          31 days ago
         </span>
         <span
           className={[
@@ -172,7 +172,7 @@ export default class StatusBox extends React.Component {
             containerStyles.right,
           ].join(' ')}
         >
-          teraz
+          now
         </span>
       </div>
     );
