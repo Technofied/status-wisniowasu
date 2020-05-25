@@ -13,7 +13,8 @@
             "id": "785029969",
             "title": "Website",
             "subtitle" : "DemocracyCraft Website"
-        {,
+        },
+        {
             "type": "standalone",
             "id": "785027223",
             "title": "Forums",
