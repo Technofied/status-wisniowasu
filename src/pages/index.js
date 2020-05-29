@@ -83,7 +83,7 @@ export default function Index({ data }) {
             <meta property="og:type" content="website" />
             <meta
               property="og:image"
-              content="https://status.wisniowasu.pl/social_logo.jpg"
+              content="https://democracycraft.net/img/logo.png"
             />
             <link rel="icon" href="/favicon.ico" />
           </Helmet>
