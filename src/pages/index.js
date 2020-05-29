@@ -78,7 +78,7 @@ export default function Index({ data }) {
             />
             <meta
               property="og:description"
-              content="Strona zawierająca wszystkie aktualne i ubiegłe stany usług Wiśniowa SU"
+              content="Status of DemocracyCraft Online Services"
             />
             <meta property="og:type" content="website" />
             <meta
