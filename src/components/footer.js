@@ -19,25 +19,25 @@ export default class Footer extends React.Component {
         <div className={containerStyles.icons}>
           <a
             className={containerStyles.facebook}
-            href="https://facebook.wisniowasu.pl"
+            href=""
             target="_blank"
             rel="noopener noreferrer"
           ></a>
           <a
             className={containerStyles.instagram}
-            href="https://instagram.wisniowasu.pl"
+            href="https://www.instagram.com/democracycraft/"
             target="_blank"
             rel="noopener noreferrer"
           ></a>
           <a
             className={containerStyles.youtube}
-            href="https://youtube.wisniowasu.pl"
+            href="https://www.youtube.com/channel/UCN1a-Lc7UosgCyfPipsRtmQ/videos"
             target="_blank"
             rel="noopener noreferrer"
           ></a>
           <a
             className={containerStyles.discord}
-            href="https://discord.wisniowasu.pl"
+            href="https://discord.com/invite/9AFGeNq"
             target="_blank"
             rel="noopener noreferrer"
           ></a>
